@@ -14,10 +14,15 @@
     },
     {
       "materic": "Australia",
-      "country": "Australia"
+      "country": "Australia",
+      "population": "24.6 million",
+      "CityCapital": "Canberra"
     },
     {
-      "country": "Egipto"
+      "materic": "África",
+      "country": "Egipto",
+      "population": "97.55 million",
+      "CityCapital": "El Cairo"
     },
     {
       "materic": "América del norte",
@@ -26,6 +31,10 @@
       "CityCapital": "Washington"
     },
     {
+      "materic": "Sudamerica",
+      "country": "Brasil",
+      "population": "209,3 millones",
+      "CityCapital": "brasilia"
     }
   ]
 }

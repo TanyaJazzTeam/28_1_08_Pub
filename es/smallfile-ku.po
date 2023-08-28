@@ -12,19 +12,19 @@ msgstr "Una captura de pantalla del sitio web."
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
-msgstr ""
+msgstr "AMP Brand Materials"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
-msgstr ""
+msgstr "AMP Caches & CORS"
 
 #: /views/partials/footer.j2:71
 msgid "AMP Conf 2020"
-msgstr ""
+msgstr "AMP Conf 2020"
 
 #: /views/partials/footer.j2:72
 msgid "AMP Contributor Summit 2019"
-msgstr ""
+msgstr "AMP Contributor Summit 2019"
 
 #: /views/partials/banner.j2:5
 msgid "AMP Contributor Summit 2019 Applications Now Open"
@@ -32,7 +32,7 @@ msgstr "Las solicitudes para la Cumbre de Colaboradores de AMP 2019 ya están ab
 
 #: /views/partials/footer.j2:43
 msgid "AMP Framework"
-msgstr ""
+msgstr "AMP Framework"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
 msgid "AMP HTML Specification"

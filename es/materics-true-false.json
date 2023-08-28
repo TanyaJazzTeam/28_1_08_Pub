@@ -5,11 +5,14 @@
       "countres": [
         {
           "name": "Bielorrusia",
+          "capital": "Minsk",
           "population": "9,5 millones",
           "bool": "FALSO"
         },
         {
+          "name": "Rusia",
           "capital": "Moscú",
+          "population": "144,5 millones",
           "bool": "verdadero"
         }
       ]

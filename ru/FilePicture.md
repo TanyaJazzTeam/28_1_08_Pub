@@ -16,9 +16,9 @@
 столбец 2 | центрированный | 12 долларов США
 полоски зебры | аккуратны | ~~$1~~
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+Dillinger — это облачный редактор HTML5 Markdown с поддержкой мобильных устройств и автономным хранилищем на базе AngularJS.
 
-- Type some Markdown on the left
+- Type some Markdown on the left 2
 - См. HTML справа.
 - Magic
 

@@ -4,10 +4,12 @@ my:
     composition:
       dough:
       - eggs
-      - 
-      - 
+      - 'sugar
+
+        '
+      - flour
       cream:
-      - 
+      - sugar
       - 
     dough:
     - eggs

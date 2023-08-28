@@ -4,7 +4,7 @@ msgstr "Una captura de pantalla de un sitio web que utiliza AMP."
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
-msgstr "Una captura de pantalla que muestra la barra lateral del amplificador."
+msgstr "Una captura de pantalla que muestra la barra lateral del amplificador. 1"
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
@@ -12,11 +12,11 @@ msgstr "Una captura de pantalla del sitio web."
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
-msgstr "AMP Brand Materials"
+msgstr "AMP Brand Materialsе "
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
-msgstr "AMP Caches & CORS"
+msgstr "AMP Caches & CORSк"
 
 #: /views/partials/footer.j2:71
 msgid "AMP Conf 2020"
@@ -40,7 +40,7 @@ msgstr "Especificación HTML de AMP"
 
 #: /content/amp-dev/support/faq/overview.md
 msgid "AMP Overview"
-msgstr "Descripción general de AMP"
+msgstr "Descripción general de AMP2 "
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "AMP for Email Specification"

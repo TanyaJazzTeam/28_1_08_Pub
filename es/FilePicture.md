@@ -1,20 +1,20 @@
 First Header | Second Header
 --- | ---
 Content Cell | Content Cell
-Content Cell | Content Cell
+Celda de contenido | Celda de contenido
 
-First Header | Second Header
+Primer encabezado | Segundo encabezado
 --- | ---
-Content Cell | Content Cell
-Content Cell | Content Cell
+Celda de contenido | Celda de contenido
+Celda de contenido | Celda de contenido
 
 ![Citadel](https://vignette.wikia.nocookie.net/masseffect/images/d/d7/MassEffect2Citadel.jpg/revision/latest?cb=20100721191415)
 
-Left-Aligned | Center Aligned | Right Aligned
+Alineado a la izquierda | Centro alineado | Alineado a la derecha
 :-- | :-: | --:
-col 3 is | some wordy text | **$1600**
-col 2 is | centered | $12
-zebra stripes | are neat | ~~$1~~
+la columna 3 es | algún texto prolijo | **$1600**
+la columna 2 es | centrado | $12
+rayas de cebra | son limpios | ~~$1~~
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
@@ -85,9 +85,9 @@ Plugin | README
 Dropbox | [plugins/dropbox/README.md][PlDb]
 GitHub | [plugins/github/README.md][PlGh]
 Google Drive | [plugins/googledrive/README.md][PlGd]
-OneDrive | [plugins/onedrive/README.md][PlOd]
-Medium | [plugins/medium/README.md][PlMe]
-Google Analytics | [plugins/googleanalytics/README.md][PlGa]
+OneDrive | [complementos/onedrive/README.md][PlOd]
+Medio | [plugins/medium/README.md][PlMe]
+Google analitico | [plugins/googleanalytics/README.md][PlGa]
 
 ### Development
 
@@ -95,9 +95,9 @@ Want to contribute? Great!
 
 Dillinger uses Gulp + Webpack for fast developing. Make a change in your file and instantaneously see your updates!
 
-Open your favorite Terminal and run these commands.
+Abra su Terminal favorita y ejecute estos comandos.
 
-First Tab:
+Primera pestaña:
 
 ```sh
 $ node app
@@ -123,7 +123,7 @@ For production release:
 $ gulp build --prod
 ```
 
-Generating pre-built zip archives for distribution:
+Generando archivos zip prediseñados para su distribución:
 
 ```sh
 $ gulp build dist --prod
@@ -148,7 +148,7 @@ Once done, run the Docker image and map the port to whatever you wish on your ho
 docker run -d -p 8000:8080 --restart="always" <youruser>/dillinger:${package.json.version}
 ```
 
-Verify the deployment by navigating to your server address in your preferred browser.
+Verifique la implementación navegando a la dirección de su servidor en su navegador preferido.
 
 ```sh
 127.0.0.1:8000
@@ -156,6 +156,6 @@ Verify the deployment by navigating to your server address in your preferred bro
 
 #### Kubernetes + Google Cloud
 
-See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
+Ver [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
 
 ### Todos

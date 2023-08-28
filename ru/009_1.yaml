@@ -4,14 +4,14 @@ my:
     composition:
       dough:
       - яйца
-      - 
-      - 
+      - сахар
+      - мука 1
       cream:
-      - 
-      - 
+      - sugar
+      - milk
     dough:
     - яйца
-    - 
+    - сахар 3
     - мука
     cream:
     - сахар

@@ -1,0 +1,18 @@
+---
+my:
+  cake:
+    composition:
+      dough:
+      - яйца
+      - 
+      - 
+      cream:
+      - 
+      - 
+    dough:
+    - яйца
+    - 
+    - мука
+    cream:
+    - сахар
+    - молоко

@@ -25,11 +25,14 @@
       "CityCapital": "Каир"
     },
     {
+      "materic": "Северная Америка",
       "country": "США",
-      "population": "327,2 миллиона"
+      "population": "327,2 миллиона",
+      "CityCapital": "Вашингтон"
     },
     {
       "materic": "Южная Америка",
+      "country": "Бразилия",
       "population": "209,3 миллиона",
       "CityCapital": "Бразилиа"
     }

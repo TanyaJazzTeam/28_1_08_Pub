@@ -7,9 +7,12 @@
   "eyebrow": "Адаптация к Интернету",
   "resources": [
     {
+      "title": "веб.разработчик 3",
+      "url": "https://web.dev/4\n"
     },
     {
-      "title": "Разработчик Chrome"
+      "title": "Разработчик Chrome",
+      "url": "https://developer.chrome.com/ 4"
     }
   ]
 }

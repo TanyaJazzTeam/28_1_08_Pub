@@ -15,15 +15,23 @@
     {
       "materic": "Australia",
       "country": "Austrália",
-      "population": "24,6 milhões"
+      "population": "24,6 milhões",
+      "CityCapital": "Canberra"
     },
     {
-      "country": "Egito"
+      "materic": "Africa",
+      "country": "Egito",
+      "population": "97.55 million",
+      "CityCapital": "Cairo"
     },
     {
-      "country": "EUA"
+      "materic": "North America",
+      "country": "EUA",
+      "population": "327.2 million",
+      "CityCapital": "Washington"
     },
     {
+      "materic": "South America\n",
       "country": "Brasil",
       "population": "209,3 milhões",
       "CityCapital": "Brasília"

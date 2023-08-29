@@ -1,0 +1,18 @@
+{
+  "layout": "техническая деталь 1",
+  "tags": [
+    "сеть 2\n"
+  ],
+  "section": "сеть",
+  "eyebrow": "Адаптация к Интернету",
+  "resources": [
+    {
+      "title": "веб.разработчик 3",
+      "url": "https://web.dev/4\n"
+    },
+    {
+      "title": "Разработчик Chrome",
+      "url": "https://developer.chrome.com/ 4"
+    }
+  ]
+}

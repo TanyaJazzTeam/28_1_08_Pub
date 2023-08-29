@@ -4,7 +4,7 @@ msgstr "Скриншот веб-сайта, использующего AMP."
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
-msgstr ""
+msgstr "Скриншот, показывающий боковую панель amp. 1"
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
@@ -16,7 +16,7 @@ msgstr "Брендовые материалы AMP"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
-msgstr ""
+msgstr "Кеши AMP и CORS 2"
 
 #: /views/partials/footer.j2:71
 msgid "AMP Conf 2020"

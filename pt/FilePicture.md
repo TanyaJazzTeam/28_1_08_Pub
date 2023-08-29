@@ -20,14 +20,14 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 
 - Digite algum Markdown à esquerda
 - Veja HTML à direita
-- Magia
+- Magia 1
 
 # verdadeiro
 
 - Importe um arquivo HTML e veja-o ser convertido magicamente para Markdown
-- Arraste e solte imagens (requer que sua conta do Dropbox esteja vinculada)
+- Arraste e solte imagens (requer que sua conta do Dropbox esteja vinculada) f
 
-Você também pode:
+Você também pode: 2
 
 - Importe e salve arquivos do GitHub, Dropbox, Google Drive e One Drive
 - Arraste e solte markdown e arquivos HTML no Dillinger

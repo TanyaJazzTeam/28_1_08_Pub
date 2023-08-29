@@ -1,0 +1,32 @@
+{
+  "PlanetEarth": [
+    {
+      "materic": "Europa",
+      "country": "Bielorrússia",
+      "population": "9.5 million",
+      "CityCapital": "Minsk"
+    },
+    {
+      "materic": "Asia\n",
+      "country": "China",
+      "population": "1,386 bilhão",
+      "CityCapital": "Beijing"
+    },
+    {
+      "materic": "Australia",
+      "country": "Austrália",
+      "population": "24,6 milhões"
+    },
+    {
+      "country": "Egito"
+    },
+    {
+      "country": "EUA"
+    },
+    {
+      "country": "Brasil",
+      "population": "209,3 milhões",
+      "CityCapital": "Brasília"
+    }
+  ]
+}

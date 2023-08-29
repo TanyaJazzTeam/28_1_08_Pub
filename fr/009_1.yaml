@@ -5,14 +5,14 @@ my:
       dough:
       - œufs
       - sucre
-      - 
+      - farine
       cream:
       - sucre
-      - 
+      - lait
     dough:
-    - 
+    - œufs
     - sucre
-    - 
+    - farine
     cream:
-    - 
-    - 
+    - sucre
+    - lait

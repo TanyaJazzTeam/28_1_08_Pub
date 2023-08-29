@@ -33,13 +33,13 @@ Você também pode: 2
 - Arraste e solte markdown e arquivos HTML no Dillinger
 - Exporte documentos como Markdown, HTML e PDF
 
-Markdown é uma linguagem de marcação leve baseada nas convenções de formatação que as pessoas usam naturalmente em emails. Como [John Gruber] escreve no [site Markdown][df1]
+Markdown é uma linguagem de marcação leve baseada nas convenções de formatação que as pessoas usam naturalmente em emails. Como [John Gruber] escreve no [site Markdown][df1] 12
 
 > O principal objetivo de design da sintaxe de formatação do Markdown é torná-la o mais legível possível. A ideia é que um documento formatado em Markdown possa ser publicado como está, como texto simples, sem parecer que foi marcado com tags ou instruções de formatação.
 
 Este texto que você vê aqui está, *na verdade* , escrito em Markdown! Para ter uma ideia da sintaxe do Markdown, digite algum texto na janela esquerda e observe os resultados à direita.
 
-### falso
+### falso 22
 
 Dillinger usa vários projetos de código aberto para funcionar corretamente:
 
@@ -50,14 +50,14 @@ Dillinger usa vários projetos de código aberto para funcionar corretamente:
 - [node.js] - E/S com eventos para o back-end
 - [Express] - estrutura rápida de aplicativo de rede node.js [@tjholowaychuk]
 - [Gulp] - o sistema de compilação de streaming
-- [Breakdance](https://breakdance.github.io/breakdance/) - conversor de HTML para Markdown
+- [Breakdance](https://breakdance.github.io/breakdance/) - conversor de HTML para Markdown 23
 - [jQuery] - duh
 
 E é claro que o próprio Dillinger é de código aberto com um [repositório público] [dill] no GitHub.
 
 ### Instalação
 
-![Ilos](https://lh3.googleusercontent.com/proxy/DDV8a7sLIWurhJtW8Ego9bq-JlwpfFFoR0tkLJQKKYXEXoWHB6ZUP5jGKD2VcYt3z1QVsgcn6L3GoU1ns8m9fvi3U51GzddA70ZUMHgzHvjl4-i7YOJY9cShBPrfjUhMQhxaJ97WFBp612XmjMXVGypfGkiBarN4PWxhiHkiYYNW7HGbtTpOcyt9GQ4Q23C2noxLTWFXZMcQZhRpQA_qzu2n6_H6CPViBnhSHpEl4JZAPaGCSJqgZg)
+![Ilos](https://lh3.googleusercontent.com/proxy/DDV8a7sLIWurhJtW8Ego9bq-JlwpfFFoR0tkLJQKKYXEXoWHB6ZUP5jGKD2VcYt3z1QVsgcn6L3GoU1ns8m9fvi3U51GzddA70ZUMHgzHvjl4-i7YOJY9cShBPrfjUhMQhxaJ97WFBp612XmjMXVGypfGkiBarN4PWxhiHkiYYNW7HGbtTpOcyt9GQ4Q23C2noxLTWFXZMcQZhRpQA_qzu2n6_H6CPViBnhSHpEl4JZAPaGCSJqgZg) 24
 
 Dillinger requer [Node.js](https://nodejs.org/) v4+ para ser executado.
 

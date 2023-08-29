@@ -76,11 +76,11 @@ $ npm install --production
 $ NODE_ENV=production node app
 ```
 
-### Plug-ins
+### Plug-ins 01
 
 Dillinger está atualmente estendido com os seguintes plugins. As instruções sobre como usá-los em seu próprio aplicativo estão no link abaixo. 33
 
-Plugar | Leia-me
+Plugar | Leia-me 02
 --- | ---
 Dropbox | [plugins/dropbox/README.md][PlDb]
 GitHub | [plugins/github/README.md][PlGh]

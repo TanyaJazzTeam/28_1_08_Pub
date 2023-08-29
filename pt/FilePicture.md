@@ -19,10 +19,10 @@ listras de zebra | são legais | ~~$1~~
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
 - Digite algum Markdown à esquerda
-- See HTML in the right
+- Veja HTML à direita
 - Magia
 
-# true
+# verdadeiro
 
 - Importe um arquivo HTML e veja-o ser convertido magicamente para Markdown
 - Arraste e solte imagens (requer que sua conta do Dropbox esteja vinculada)
